@@ -14,7 +14,7 @@ export default function Home() {
         />
         <div className="flex flex-col items-center justify-center">
           <p className="font-light text-xl">
-            Hi I'm <span className="font-bold">Mohammad Hussain</span>
+            Hi I&apos;m <span className="font-bold">Mohammad Hussain</span>
           </p>
           <Link
             className="text-black bg-white px-2 rounded hover:bg-white-100"
